@@ -1,0 +1,9 @@
+com/example/demogermangkt/student/Student.class
+com/example/demogermangkt/student/StudentConfig.class
+com/example/demogermangkt/DemogermangktApplication.class
+com/example/demogermangkt/student/StudenRepositoryV2.class
+com/example/demogermangkt/student/StudentService.class
+com/example/demogermangkt/student/WebSecurityConfig.class
+com/example/demogermangkt/student/StudentControllerV2.class
+com/example/demogermangkt/student/StudentRepository.class
+com/example/demogermangkt/student/StudentController.class
